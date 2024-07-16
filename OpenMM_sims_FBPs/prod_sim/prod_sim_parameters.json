@@ -14,7 +14,7 @@
                 "total_time": {
                     "__class__": "Quantity",
                     "__values__": {
-                        "value": 100,
+                        "value": 50,
                         "unit": "picosecond"
                     }
                 },
@@ -57,7 +57,7 @@
                 "report_trajectory": true,
                 "report_state_data": true,
                 "traj_ext": "dcd",
-                "num_steps": 50000,
+                "num_steps": 25000,
                 "state_data": {
                     "step": true,
                     "time": true,
