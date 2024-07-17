@@ -14,11 +14,11 @@
                 "total_time": {
                     "__class__": "Quantity",
                     "__values__": {
-                        "value": 10,
-                        "unit": "picosecond"
+                        "value": 1,
+                        "unit": "nanosecond"
                     }
                 },
-                "num_samples": 100
+                "num_samples": 50
             }
         },
         "thermo_params": {
@@ -57,7 +57,7 @@
                 "report_trajectory": true,
                 "report_state_data": true,
                 "traj_ext": "dcd",
-                "num_steps": 5000,
+                "num_steps": 500000,
                 "state_data": {
                     "step": true,
                     "time": true,
