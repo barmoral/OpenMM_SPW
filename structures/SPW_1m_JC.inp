@@ -29,4 +29,4 @@ structure ../structures/water.pdb
   inside box 0. 0. 96. 48. 48. 144.
 end structure
 
-output SPW_1m_JC.pdb
+output SPW_1m_JC_r3.pdb
